@@ -1,0 +1,49 @@
+*{
+	margin:0px;
+	padding:0px;
+	background-image:linear-gradient(white, blue);
+}
+
+header nav{
+	font-size:30px;
+	background:blue;
+	overflow:hidden;
+	margin:10px 2px;
+	box-shadow:0px 5px 0px #fff;
+}
+
+header nav ul{
+	list-style:none;	
+}
+
+header nav ul li{
+	float:left;
+}
+
+header nav ul li a{
+	padding: 10px 20px;
+	display:block;
+	color:#000;
+	text-decoration:none;
+}
+
+header nav ul li a:hover{
+	background:blue;
+}
+
+article{
+	height:170px;
+	width:300px;
+	background:blue;
+	margin:20px 50px;
+	padding:30px;
+	border:10px doted #000;
+}
+
+footer{
+	background:blue;
+	color:#000;
+	clear:both;
+	padding:10px 0px;
+	text-align:center;
+}

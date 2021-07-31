@@ -1,0 +1,35 @@
+*{
+	margin:0px;
+	padding:0px;
+	background-image:linear-gradient(white, blue);
+}
+
+th{
+	color:#fff;
+}
+table td{
+	color:#fff;
+	border:2px solid #fff;
+	padding:20px;
+}
+
+table tr:hover{
+	color:#fff;
+	background:blue;
+}
+
+table td:hover{
+	background:blue;
+	color:#000;
+}
+
+a{
+	font-size:20px;
+	text-decoration:none;
+	margin:10px 20px;
+	display:inline-block;
+	background:blue;
+	color:#fff;
+	padding:10px 20px;
+	box-shadow:0px 5px 0px #fff;
+}
